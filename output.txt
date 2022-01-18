@@ -1,0 +1,64 @@
+1.
+Battery(mAh): 4575
+Screen: java.awt.Dimension[width=741,height=2631]
+Number: +306954996622
+Manufacturer: LG
+Storage(GB): 141
+2.
+Battery(mAh): 4399
+Screen: java.awt.Dimension[width=1684,height=1127]
+Number: +306981524387
+Manufacturer: LG
+Storage(GB): 137
+3.
+Battery(mAh): 4769
+Screen: java.awt.Dimension[width=2928,height=2482]
+Number: +306927164220
+Manufacturer: Samsung
+Storage(GB): 190
+4.
+Battery(mAh): 4940
+Screen: java.awt.Dimension[width=1447,height=1953]
+Number: +306982135227
+Manufacturer: LG
+Storage(GB): 10
+5.
+Battery(mAh): 2833
+Screen: java.awt.Dimension[width=2808,height=1341]
+Number: +306909293583
+Manufacturer: Motorola
+Storage(GB): 128
+6.
+Battery(mAh): 1247
+Screen: java.awt.Dimension[width=2090,height=1655]
+Number: +306991717588
+Manufacturer: Apple
+Storage(GB): 135
+7.
+Battery(mAh): 3816
+Screen: java.awt.Dimension[width=1204,height=2690]
+Number: +306964593978
+Manufacturer: Samsung
+Storage(GB): 17
+Camera: 11 MP
+Operation System: Android
+8.
+Battery(mAh): 3296
+Screen: java.awt.Dimension[width=998,height=792]
+Number: +306930605900
+Manufacturer: Apple
+Storage(GB): 93
+9.
+Battery(mAh): 4172
+Screen: java.awt.Dimension[width=820,height=1468]
+Number: +306998414883
+Manufacturer: LG
+Storage(GB): 174
+10.
+Battery(mAh): 4949
+Screen: java.awt.Dimension[width=645,height=1159]
+Number: +306911613319
+Manufacturer: Apple
+Storage(GB): 48
+Camera: 46 MP
+Operation System: iOS
